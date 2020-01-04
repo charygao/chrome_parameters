@@ -1,12 +1,24 @@
-Chrome Parameters
+Browser Parameters
 =================
 
-A chrome extension that shows parameters from the URL
+A chrome/firefox extension that shows parameters from the URL
 
 Install from [Google Chrome Web Store](https://chrome.google.com/webstore/detail/parameters-viewer/jcfdalmioobeifbpcgjghhaifimaeaca) 
 
+How to contribute
+-----------------
+
+Everyone is welcome to contribute, and there are many ways to do it: 
+
+ * Using the app from the store, and reporting feedback 
+ * Download it from github and test all new features
+ * Contribute with some code (have a look at the Issues section)
+ * Opening inssues
+
+Or if you want to support me you can donate to my patreon (https://www.patreon.com/inuyasha82)
+
 License
-=================
+-------
 Copyright (C) 2014-2019 Ivan Gualandri
 
 This program is free software: you can redistribute it and/or modify
