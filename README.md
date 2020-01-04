@@ -17,6 +17,16 @@ Everyone is welcome to contribute, and there are many ways to do it:
 
 Or if you want to support me you can donate to my patreon (https://www.patreon.com/inuyasha82)
 
+If you want to contribute with code, the easiest way is to user github pull requests:
+
+ * Create a fork of the project from master
+ * Make your changes
+ * Push  them to your fork
+ * Once done create a pull request against master repo (of the original branch, not yours)
+
+If you don't know how to create a Pull Request, here a link with a short tutorial: 
+https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request-from-a-fork
+
 License
 -------
 Copyright (C) 2014-2019 Ivan Gualandri
